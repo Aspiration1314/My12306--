@@ -1,0 +1,19 @@
+td{
+	border-style:initial;
+	
+	border-right-style: solid;
+}
+
+
+a{
+	text-decoration: none;
+	/*color:lightskyblue;*/
+	color:darkslategrey
+}
+a:hover{
+	color:royalblue;
+}
+p{
+	text-align: left;
+	
+}

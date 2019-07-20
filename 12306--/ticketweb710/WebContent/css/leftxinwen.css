@@ -1,0 +1,14 @@
+#xinwenleft{
+	width: 379px;
+	text-align:left; 
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	width: 20em;
+}
+
+#xinwenright{
+	text-align: right; 
+	width: 143px;
+	color: #A9A9A9;
+}

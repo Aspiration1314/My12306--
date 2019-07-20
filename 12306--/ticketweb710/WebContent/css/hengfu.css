@@ -1,0 +1,69 @@
+#hengfu{
+	width: 1400px;
+	height: 70px;
+	/*background-color:#FFFFFF;*/
+	background-repeat: no-repeat;
+	position: relative;
+}
+
+#plogo{
+	position: absolute;
+  	left: 166px;
+  	top: 10px;
+}
+
+#xiushi{
+	width: 500px;
+	height: 35px;
+	position: absolute;
+  	left: 423px;
+  	top: 15px;
+}
+
+#search{
+	position: absolute;
+  	left: 892px;
+  	top: 19px;
+}
+
+a[id=denglu]{
+	text-decoration: none;
+	color: black;
+	position: absolute;
+  	left: 1111px;
+  	top: 25px;
+}
+
+a[id=denglu]:hover{
+	color:#FFA500;
+}
+
+a[id=zhuce]{
+	text-decoration: none;
+	color: black;
+	position: absolute;
+  	left: 1146px;
+  	top: 25px;
+}
+
+a[id=zhuce]:hover{
+	color:#FFA500;
+}
+
+div>p{
+	text-align:center;
+	line-height:70px;
+	font-size:x-large;
+	font-family: "楷体";
+}
+
+.searchstyle{
+	width: 357px;
+	height: 24px;
+	position: absolute;
+  	left: 530px;
+  	top: 19px;
+	border-style:inset;
+	border-width: 3px;
+	border-color:darkgray;
+}

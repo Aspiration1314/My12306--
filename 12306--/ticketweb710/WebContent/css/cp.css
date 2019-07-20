@@ -1,0 +1,66 @@
+/*td#one{
+	width: 100px;
+	height: 50px;
+	background-color: #F5F5F5;
+	margin: 0 auto;
+	float: left;
+}
+
+td#two{
+	width: 100px;
+	height: 50px;
+	background-color: #F5F5F5;
+	
+	float: left;
+}
+
+td#three{
+	width: 150px;
+	height: 50px;
+	background-color: #F5F5F5;
+	
+	float: left;
+}
+
+td#four{
+	width: 200px;
+	height: 50px;
+	background-color: #F5F5F5;
+	
+	float: left;
+}
+
+td#five{
+	width:200px;
+	height: 50px;
+	background-color:#F5F5F5;
+	
+	float:left;
+}
+
+td#six{
+	width: 100px;
+	height: 50px;
+	background-color:#F5F5F5;
+	
+	float:left;
+}
+
+
+
+
+span[id=des]{
+	position: absolute;
+	left:209px;
+	top:50px;
+}*/
+td{
+	border-style:none
+}
+
+div#beijing{
+	width: 1400px;
+	height: 10px;
+	color: #3B99FC;
+}
+

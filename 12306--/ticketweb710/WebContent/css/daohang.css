@@ -1,0 +1,15 @@
+#daohang{
+	width: 1400px;
+	height: 35px;
+	background-color:#3B99FC;
+	line-height: 34px    /*设置行高*/
+}
+
+#daohang ul{ list-style: none;  margin-left: 380px;}
+#daohang ul li { float: left;}
+#daohang ul li a{ color: #FFFFFF; text-decoration: none; margin-right: 80px; font-weight: 400px; font-size: 15px;}	   
+#daohang ul li a:hover{color:orangered;}
+
+#changeleft ul{ list-style: none; }
+#changeleft ul li a{ color:darkslategray; text-decoration: none; margin-right: 80px; font-weight: 400px; font-size: 15px;}	   
+#changeleft ul li a:hover{color:royalblue;}
